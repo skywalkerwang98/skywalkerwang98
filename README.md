@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        42 hrs 56 mins  █████████████████████▓░░░   86.04 % 
-Python       4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-YAML         2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-CSV          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other    45 hrs 17 mins  █████████████████████░░░░   84.66 % 
+Python   5 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+YAML     2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+CMake    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+CSV      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
