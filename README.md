@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other    42 hrs 49 mins  █████████████████████░░░░   84.13 % 
-Python   3 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C++      2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-YAML     1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-CMake    44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other    40 hrs 37 mins  ████████████████████▒░░░░   81.86 % 
+C++      3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Python   3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+CMake    1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+YAML     51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
