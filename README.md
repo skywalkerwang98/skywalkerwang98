@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TeX      19 hrs 51 mins  ██████████████░░░░░░░░░░░   55.79 % 
-Python   10 hrs 32 mins  ███████▒░░░░░░░░░░░░░░░░░   29.62 % 
-YAML     2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Other    1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-CMake    1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Total: 35 hrs 44 mins
+
+TeX      19 hrs 54 mins  █████████████▒░░░░░░░░░░░   53.67 % 
+Python   12 hrs 2 mins   ████████░░░░░░░░░░░░░░░░░   32.49 % 
+YAML     2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other    1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CMake    46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
