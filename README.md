@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other              20 hrs 41 mins  ████████████░░░░░░░░░░░░░   48.09 % 
-Python             17 hrs 29 mins  ██████████░░░░░░░░░░░░░░░   40.66 % 
-YAML               2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-TeX                1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other              29 hrs 43 mins  ███████████████░░░░░░░░░░   59.59 % 
+Python             13 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 % 
+YAML               3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+TeX                3 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
