@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
 ```text
-Other    30 hrs 57 mins  ███████████████▓░░░░░░░░░   63.14 % 
-Python   10 hrs 50 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
-YAML     4 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-TeX      3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other    38 hrs 47 mins  █████████████████░░░░░░░░   68.59 %
 ```
+
 <!--END_SECTION:waka-->
