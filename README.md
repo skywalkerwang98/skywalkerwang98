@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 14 mins   ███████████████░░░░░░░░░░   60.40 %
-TeX          1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-JSON         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Python       3 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   47.10 %
+TeX          2 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.15 %
+Other        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
