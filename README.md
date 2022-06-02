@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX            1 hr 10 mins    ████████████████▓░░░░░░░░   66.80 %
-Other          18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Other          18 mins         █████████████░░░░░░░░░░░░   52.27 %
 ```
 
 <!--END_SECTION:waka-->
