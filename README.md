@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ```text
 Python     1 hr 29 mins    █████████████████████████   99.47 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
