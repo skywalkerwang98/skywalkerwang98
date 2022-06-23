@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       48 mins         █████████████▒░░░░░░░░░░░   53.72 %
-Markdown     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-XML          14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+XML          14 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Markdown     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Python       10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
 ```
 
 <!--END_SECTION:waka-->
