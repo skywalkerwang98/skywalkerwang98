@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     12 mins         ███████████▓░░░░░░░░░░░░░   46.68 %
-Other        6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+Markdown     12 mins         █████████████▓░░░░░░░░░░░   55.07 %
+Other        6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.82 %
 ```
 
 <!--END_SECTION:waka-->
